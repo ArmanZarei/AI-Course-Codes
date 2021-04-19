@@ -1,5 +1,5 @@
 def KMP(text, pattern):
-    ans = [] # indexes
+    ans = [] # indices
     lps = buildPattern(pattern)
     k = 0
     for i in range(len(text)):
