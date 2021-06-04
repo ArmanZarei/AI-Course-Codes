@@ -1,3 +1,5 @@
 # Useful Codes
-- [N Queens](https://github.com/ArmanZarei/AI-Course-Codes/blob/master/n_queens.py)
-- [KMP](https://github.com/ArmanZarei/Useful-Codes/blob/master/KMP.py)
+- [N Queens](n_queens.py)
+- [KMP](KMP.py)
+- [Heap (Max/Min Heap Java)](Heap.java)
+- [Heap (Max/Min Heap Python)](heap.py)
